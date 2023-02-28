@@ -20,5 +20,5 @@ func main() {
 	fmt.Println(f)
 
 	//variable
-	//ok
+	//ok siap
 }
